@@ -1390,3 +1390,10 @@ As Steve Krug once said, happy talk must die.
       ![C](images/Q84-3.jpg)
 - [ ] D
       ![D](images/Q84-4.jpg)
+
+#### Q85. What is the difference between <svg> and <canvas> elements?
+
+- [ ] <svg> produces raster graphics, while <canvas> produce vector graphics.
+- [x] <svg> produces vector graphics, while <canvas> produce raster graphics.
+- [ ] <svg> intrigates with JavaScript, while <canvas> does not.
+- [ ] <svg> cannot be used as a background image, while <canvas> can be used as a background image.
